@@ -113,3 +113,4 @@
 - Add helper — iteration 12 (2026)
 - Add example — iteration 21 (2026)
 - Tweak implementation — iteration 22 (2026)
+- Add tests — iteration 27 (2026)
