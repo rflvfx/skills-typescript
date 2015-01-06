@@ -3,3 +3,4 @@
 - Polish code — iteration 3 (2015)
 - Add example — iteration 5 (2015)
 - Improve naming — iteration 8 (2015)
+- Fix edge case — iteration 20 (2015)
