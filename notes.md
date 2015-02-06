@@ -4,3 +4,4 @@
 - Optimize performance — iteration 23 (2015)
 - Fix edge case — iteration 27 (2015)
 - Fix lint warnings — iteration 39 (2015)
+- Fix typo — iteration 45 (2015)
