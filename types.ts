@@ -15,3 +15,4 @@ console.log(wrap(u), u satisfies User);
 - Add feature — iteration 11 (2015)
 - Fix lint warnings — iteration 14 (2015)
 - Improve naming — iteration 21 (2015)
+- Add example — iteration 29 (2015)
