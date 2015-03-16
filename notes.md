@@ -6,3 +6,4 @@
 - Fix lint warnings — iteration 39 (2015)
 - Fix typo — iteration 45 (2015)
 - Optimize performance — iteration 47 (2015)
+- Polish code — iteration 48 (2015)
