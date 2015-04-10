@@ -18,3 +18,4 @@ console.log(wrap(u), u satisfies User);
 - Add example — iteration 29 (2015)
 - Improve naming — iteration 32 (2015)
 - Minor cleanup — iteration 42 (2015)
+- Update config — iteration 46 (2015)
