@@ -3,3 +3,4 @@
 - Add validation — iteration 17 (2015)
 - Optimize performance — iteration 23 (2015)
 - Fix edge case — iteration 27 (2015)
+- Fix lint warnings — iteration 39 (2015)
