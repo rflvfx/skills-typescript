@@ -17,3 +17,4 @@ console.log(wrap(u), u satisfies User);
 - Improve naming — iteration 21 (2015)
 - Add example — iteration 29 (2015)
 - Improve naming — iteration 32 (2015)
+- Minor cleanup — iteration 42 (2015)
