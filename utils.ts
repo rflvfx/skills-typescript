@@ -14,3 +14,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Add example — iteration 18 (2015)
 - Optimize performance — iteration 19 (2015)
 - Update docs — iteration 26 (2015)
+- Minor cleanup — iteration 28 (2015)
