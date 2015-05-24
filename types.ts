@@ -21,3 +21,4 @@ console.log(wrap(u), u satisfies User);
 - Update config — iteration 46 (2015)
 - Add tests — iteration 54 (2015)
 - Refactor module — iteration 56 (2015)
+- Improve error handling — iteration 60 (2015)
