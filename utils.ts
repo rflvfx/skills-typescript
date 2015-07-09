@@ -7,3 +7,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
     return acc;
   }, {} as Record<string, T[]>);
 }
+- Improve naming — iteration 6 (2015)
