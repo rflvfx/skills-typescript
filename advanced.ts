@@ -1,1 +1,2 @@
 - Improve naming — iteration 1 (2015)
+- Fix edge case — iteration 2 (2015)
