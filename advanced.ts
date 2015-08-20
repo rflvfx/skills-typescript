@@ -8,3 +8,4 @@
 - Improve naming — iteration 24 (2015)
 - Minor cleanup — iteration 25 (2015)
 - Minor cleanup — iteration 30 (2015)
+- Improve error handling — iteration 33 (2015)
