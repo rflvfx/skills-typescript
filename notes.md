@@ -1,3 +1,4 @@
 - Improve naming — iteration 4 (2015)
 - Update dependencies — iteration 13 (2015)
 - Add validation — iteration 17 (2015)
+- Optimize performance — iteration 23 (2015)
