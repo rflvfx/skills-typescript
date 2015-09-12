@@ -7,3 +7,4 @@
 - Fix lint warnings — iteration 22 (2015)
 - Improve naming — iteration 24 (2015)
 - Minor cleanup — iteration 25 (2015)
+- Minor cleanup — iteration 30 (2015)
