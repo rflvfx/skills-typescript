@@ -19,3 +19,4 @@ console.log(wrap(u), u satisfies User);
 - Improve naming — iteration 32 (2015)
 - Minor cleanup — iteration 42 (2015)
 - Update config — iteration 46 (2015)
+- Add tests — iteration 54 (2015)
