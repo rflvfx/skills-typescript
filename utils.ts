@@ -10,3 +10,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Improve naming — iteration 6 (2015)
 - Fix typo — iteration 9 (2015)
 - Minor cleanup — iteration 10 (2015)
+- Update docs — iteration 12 (2015)
