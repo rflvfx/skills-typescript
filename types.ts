@@ -12,3 +12,4 @@ type UserUpdate = Partial<User>;
 const u: User = { id: 1, name: "Ana", email: "ana@dev.io", role: "admin" };
 console.log(wrap(u), u satisfies User);
 - Fix typo — iteration 7 (2015)
+- Add feature — iteration 11 (2015)
