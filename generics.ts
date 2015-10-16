@@ -4,3 +4,4 @@
 - Minor cleanup — iteration 35 (2015)
 - Improve error handling — iteration 36 (2015)
 - Fix typo — iteration 43 (2015)
+- Add helper — iteration 58 (2015)
