@@ -15,3 +15,4 @@
 - Add example — iteration 49 (2015)
 - Add tests — iteration 50 (2015)
 - Fix lint warnings — iteration 51 (2015)
+- Add validation — iteration 52 (2015)
