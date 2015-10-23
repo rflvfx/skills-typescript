@@ -8,3 +8,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
   }, {} as Record<string, T[]>);
 }
 - Improve naming — iteration 6 (2015)
+- Fix typo — iteration 9 (2015)
