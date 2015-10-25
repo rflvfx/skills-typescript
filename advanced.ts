@@ -6,3 +6,4 @@
 - Fix edge case — iteration 20 (2015)
 - Fix lint warnings — iteration 22 (2015)
 - Improve naming — iteration 24 (2015)
+- Minor cleanup — iteration 25 (2015)
