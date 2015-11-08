@@ -1,3 +1,4 @@
 - Improve naming — iteration 1 (2015)
 - Fix edge case — iteration 2 (2015)
 - Polish code — iteration 3 (2015)
+- Add example — iteration 5 (2015)
