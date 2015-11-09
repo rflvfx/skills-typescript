@@ -12,3 +12,4 @@
 - Refactor module — iteration 38 (2015)
 - Document usage — iteration 41 (2015)
 - Add feature — iteration 44 (2015)
+- Add example — iteration 49 (2015)
