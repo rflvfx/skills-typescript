@@ -30,3 +30,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Add tests — iteration 35 (2016)
 - Fix edge case — iteration 45 (2016)
 - Fix typo — iteration 49 (2016)
+- Add feature — iteration 52 (2016)
