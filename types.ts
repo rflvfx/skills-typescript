@@ -24,3 +24,4 @@ console.log(wrap(u), u satisfies User);
 - Improve error handling — iteration 60 (2015)
 - Polish code — iteration 8 (2016)
 - Fix typo — iteration 14 (2016)
+- Update config — iteration 25 (2016)
