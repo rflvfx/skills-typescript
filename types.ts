@@ -26,3 +26,4 @@ console.log(wrap(u), u satisfies User);
 - Fix typo — iteration 14 (2016)
 - Update config — iteration 25 (2016)
 - Extend coverage — iteration 27 (2016)
+- Optimize performance — iteration 36 (2016)
