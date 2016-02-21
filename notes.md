@@ -12,3 +12,4 @@
 - Extend coverage — iteration 6 (2016)
 - Update dependencies — iteration 7 (2016)
 - Fix typo — iteration 11 (2016)
+- Add helper — iteration 24 (2016)
