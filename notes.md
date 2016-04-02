@@ -9,3 +9,4 @@
 - Polish code — iteration 48 (2015)
 - Update config — iteration 3 (2016)
 - Refactor module — iteration 5 (2016)
+- Extend coverage — iteration 6 (2016)
