@@ -30,3 +30,4 @@
 - Add example — iteration 38 (2016)
 - Add tests — iteration 51 (2016)
 - Fix lint warnings — iteration 54 (2016)
+- Polish code — iteration 58 (2016)
