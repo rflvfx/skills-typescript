@@ -28,3 +28,4 @@
 - Add validation — iteration 33 (2016)
 - Refactor module — iteration 37 (2016)
 - Add example — iteration 38 (2016)
+- Add tests — iteration 51 (2016)
