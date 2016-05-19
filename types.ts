@@ -29,3 +29,4 @@ console.log(wrap(u), u satisfies User);
 - Optimize performance — iteration 36 (2016)
 - Minor cleanup — iteration 41 (2016)
 - Fix lint warnings — iteration 56 (2016)
+- Document usage — iteration 57 (2016)
