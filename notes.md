@@ -7,3 +7,4 @@
 - Fix typo — iteration 45 (2015)
 - Optimize performance — iteration 47 (2015)
 - Polish code — iteration 48 (2015)
+- Update config — iteration 3 (2016)
