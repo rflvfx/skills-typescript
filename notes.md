@@ -13,3 +13,4 @@
 - Update dependencies — iteration 7 (2016)
 - Fix typo — iteration 11 (2016)
 - Add helper — iteration 24 (2016)
+- Fix edge case — iteration 29 (2016)
