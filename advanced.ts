@@ -29,3 +29,4 @@
 - Refactor module — iteration 37 (2016)
 - Add example — iteration 38 (2016)
 - Add tests — iteration 51 (2016)
+- Fix lint warnings — iteration 54 (2016)
