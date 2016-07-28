@@ -15,3 +15,4 @@
 - Add helper — iteration 24 (2016)
 - Fix edge case — iteration 29 (2016)
 - Update config — iteration 30 (2016)
+- Fix typo — iteration 39 (2016)
