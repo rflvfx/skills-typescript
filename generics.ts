@@ -15,3 +15,4 @@
 - Add helper — iteration 42 (2016)
 - Tweak implementation — iteration 43 (2016)
 - Add validation — iteration 44 (2016)
+- Improve naming — iteration 48 (2016)
