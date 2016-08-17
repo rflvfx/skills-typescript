@@ -27,3 +27,4 @@ console.log(wrap(u), u satisfies User);
 - Update config — iteration 25 (2016)
 - Extend coverage — iteration 27 (2016)
 - Optimize performance — iteration 36 (2016)
+- Minor cleanup — iteration 41 (2016)
