@@ -11,3 +11,4 @@
 - Document usage — iteration 20 (2016)
 - Document usage — iteration 26 (2016)
 - Fix lint warnings — iteration 28 (2016)
+- Fix lint warnings — iteration 34 (2016)
