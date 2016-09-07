@@ -11,3 +11,4 @@
 - Refactor module — iteration 5 (2016)
 - Extend coverage — iteration 6 (2016)
 - Update dependencies — iteration 7 (2016)
+- Fix typo — iteration 11 (2016)
