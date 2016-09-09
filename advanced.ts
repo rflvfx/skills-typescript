@@ -20,3 +20,4 @@
 - Fix typo — iteration 55 (2015)
 - Minor cleanup — iteration 59 (2015)
 - Add feature — iteration 1 (2016)
+- Add example — iteration 4 (2016)
