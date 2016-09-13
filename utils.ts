@@ -26,3 +26,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Document usage — iteration 22 (2016)
 - Update docs — iteration 23 (2016)
 - Update config — iteration 31 (2016)
+- Minor cleanup — iteration 32 (2016)
