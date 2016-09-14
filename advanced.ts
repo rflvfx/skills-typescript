@@ -23,3 +23,4 @@
 - Add example — iteration 4 (2016)
 - Add feature — iteration 9 (2016)
 - Fix edge case — iteration 12 (2016)
+- Add validation — iteration 13 (2016)
