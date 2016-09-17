@@ -8,3 +8,4 @@
 - Add validation — iteration 2 (2016)
 - Update dependencies — iteration 15 (2016)
 - Fix typo — iteration 18 (2016)
+- Document usage — iteration 20 (2016)
