@@ -7,3 +7,4 @@
 - Add helper — iteration 58 (2015)
 - Add validation — iteration 2 (2016)
 - Update dependencies — iteration 15 (2016)
+- Fix typo — iteration 18 (2016)
