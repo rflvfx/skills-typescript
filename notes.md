@@ -19,3 +19,4 @@
 - Update config — iteration 40 (2016)
 - Add tests — iteration 46 (2016)
 - Add validation — iteration 47 (2016)
+- Fix typo — iteration 50 (2016)
