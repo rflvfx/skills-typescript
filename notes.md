@@ -8,3 +8,4 @@
 - Optimize performance — iteration 47 (2015)
 - Polish code — iteration 48 (2015)
 - Update config — iteration 3 (2016)
+- Refactor module — iteration 5 (2016)
