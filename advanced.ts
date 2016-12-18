@@ -24,3 +24,4 @@
 - Add feature — iteration 9 (2016)
 - Fix edge case — iteration 12 (2016)
 - Add validation — iteration 13 (2016)
+- Update config — iteration 17 (2016)
