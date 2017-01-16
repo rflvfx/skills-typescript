@@ -32,3 +32,4 @@
 - Improve error handling — iteration 41 (2017)
 - Tweak implementation — iteration 44 (2017)
 - Update config — iteration 46 (2017)
+- Update config — iteration 54 (2017)
