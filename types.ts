@@ -34,3 +34,4 @@ console.log(wrap(u), u satisfies User);
 - Extend coverage — iteration 10 (2017)
 - Polish code — iteration 17 (2017)
 - Update config — iteration 22 (2017)
+- Tweak implementation — iteration 26 (2017)
