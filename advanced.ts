@@ -35,3 +35,4 @@
 - Add validation — iteration 6 (2017)
 - Extend coverage — iteration 20 (2017)
 - Refactor module — iteration 23 (2017)
+- Document usage — iteration 27 (2017)
