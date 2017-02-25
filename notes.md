@@ -23,3 +23,4 @@
 - Add validation — iteration 7 (2017)
 - Update config — iteration 24 (2017)
 - Add example — iteration 29 (2017)
+- Fix typo — iteration 30 (2017)
