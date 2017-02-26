@@ -30,3 +30,4 @@
 - Optimize performance — iteration 36 (2017)
 - Extend coverage — iteration 39 (2017)
 - Improve error handling — iteration 41 (2017)
+- Tweak implementation — iteration 44 (2017)
