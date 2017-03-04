@@ -25,3 +25,4 @@
 - Refactor module — iteration 13 (2017)
 - Add feature — iteration 15 (2017)
 - Update docs — iteration 16 (2017)
+- Improve error handling — iteration 21 (2017)
