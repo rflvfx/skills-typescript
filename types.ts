@@ -33,3 +33,4 @@ console.log(wrap(u), u satisfies User);
 - Document usage — iteration 9 (2017)
 - Extend coverage — iteration 10 (2017)
 - Polish code — iteration 17 (2017)
+- Update config — iteration 22 (2017)
