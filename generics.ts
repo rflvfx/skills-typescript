@@ -27,3 +27,4 @@
 - Update docs — iteration 16 (2017)
 - Improve error handling — iteration 21 (2017)
 - Minor cleanup — iteration 33 (2017)
+- Optimize performance — iteration 36 (2017)
