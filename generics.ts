@@ -28,3 +28,4 @@
 - Improve error handling — iteration 21 (2017)
 - Minor cleanup — iteration 33 (2017)
 - Optimize performance — iteration 36 (2017)
+- Extend coverage — iteration 39 (2017)
