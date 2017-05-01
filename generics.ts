@@ -19,3 +19,4 @@
 - Improve naming — iteration 55 (2016)
 - Add validation — iteration 59 (2016)
 - Minor cleanup — iteration 1 (2017)
+- Fix lint warnings — iteration 2 (2017)
