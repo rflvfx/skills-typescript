@@ -33,3 +33,4 @@
 - Polish code — iteration 58 (2016)
 - Improve naming — iteration 5 (2017)
 - Add validation — iteration 6 (2017)
+- Extend coverage — iteration 20 (2017)
