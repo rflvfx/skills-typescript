@@ -43,3 +43,4 @@
 - Add example — iteration 49 (2017)
 - Add helper — iteration 53 (2017)
 - Improve error handling — iteration 57 (2017)
+- Add feature — iteration 59 (2017)
