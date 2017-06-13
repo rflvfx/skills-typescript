@@ -38,3 +38,4 @@
 - Document usage — iteration 27 (2017)
 - Tweak implementation — iteration 28 (2017)
 - Minor cleanup — iteration 32 (2017)
+- Fix lint warnings — iteration 38 (2017)
