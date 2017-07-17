@@ -35,3 +35,4 @@ console.log(wrap(u), u satisfies User);
 - Polish code — iteration 17 (2017)
 - Update config — iteration 22 (2017)
 - Tweak implementation — iteration 26 (2017)
+- Improve error handling — iteration 34 (2017)
