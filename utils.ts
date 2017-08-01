@@ -40,3 +40,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Polish code — iteration 19 (2017)
 - Add validation — iteration 25 (2017)
 - Add example — iteration 31 (2017)
+- Update dependencies — iteration 35 (2017)
