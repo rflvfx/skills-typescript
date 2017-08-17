@@ -25,3 +25,4 @@
 - Add example — iteration 29 (2017)
 - Fix typo — iteration 30 (2017)
 - Polish code — iteration 56 (2017)
+- Fix edge case — iteration 60 (2017)
