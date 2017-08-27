@@ -39,3 +39,4 @@ console.log(wrap(u), u satisfies User);
 - Update config — iteration 45 (2017)
 - Extend coverage — iteration 48 (2017)
 - Improve naming — iteration 50 (2017)
+- Tweak implementation — iteration 58 (2017)
