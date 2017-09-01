@@ -18,3 +18,4 @@
 - Improve naming — iteration 48 (2016)
 - Improve naming — iteration 55 (2016)
 - Add validation — iteration 59 (2016)
+- Minor cleanup — iteration 1 (2017)
