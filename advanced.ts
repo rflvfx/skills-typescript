@@ -34,3 +34,4 @@
 - Improve naming — iteration 5 (2017)
 - Add validation — iteration 6 (2017)
 - Extend coverage — iteration 20 (2017)
+- Refactor module — iteration 23 (2017)
