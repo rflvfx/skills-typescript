@@ -36,3 +36,4 @@ console.log(wrap(u), u satisfies User);
 - Update config — iteration 22 (2017)
 - Tweak implementation — iteration 26 (2017)
 - Improve error handling — iteration 34 (2017)
+- Update config — iteration 45 (2017)
