@@ -31,3 +31,4 @@ console.log(wrap(u), u satisfies User);
 - Fix lint warnings — iteration 56 (2016)
 - Document usage — iteration 57 (2016)
 - Document usage — iteration 9 (2017)
+- Extend coverage — iteration 10 (2017)
