@@ -39,3 +39,4 @@
 - Tweak implementation — iteration 28 (2017)
 - Minor cleanup — iteration 32 (2017)
 - Fix lint warnings — iteration 38 (2017)
+- Add validation — iteration 47 (2017)
