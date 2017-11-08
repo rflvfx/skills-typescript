@@ -32,3 +32,4 @@
 - Fix lint warnings — iteration 54 (2016)
 - Polish code — iteration 58 (2016)
 - Improve naming — iteration 5 (2017)
+- Add validation — iteration 6 (2017)
