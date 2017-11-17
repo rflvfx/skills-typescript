@@ -38,3 +38,4 @@ console.log(wrap(u), u satisfies User);
 - Improve error handling — iteration 34 (2017)
 - Update config — iteration 45 (2017)
 - Extend coverage — iteration 48 (2017)
+- Improve naming — iteration 50 (2017)
