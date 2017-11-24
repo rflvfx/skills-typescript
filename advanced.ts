@@ -36,3 +36,4 @@
 - Extend coverage — iteration 20 (2017)
 - Refactor module — iteration 23 (2017)
 - Document usage — iteration 27 (2017)
+- Tweak implementation — iteration 28 (2017)
