@@ -20,3 +20,4 @@
 - Add validation — iteration 59 (2016)
 - Minor cleanup — iteration 1 (2017)
 - Fix lint warnings — iteration 2 (2017)
+- Improve error handling — iteration 8 (2017)
