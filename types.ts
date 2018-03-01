@@ -47,3 +47,4 @@ console.log(wrap(u), u satisfies User);
 - Add validation — iteration 24 (2018)
 - Refactor module — iteration 33 (2018)
 - Add helper — iteration 34 (2018)
+- Add helper — iteration 37 (2018)
