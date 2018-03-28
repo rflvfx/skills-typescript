@@ -50,3 +50,4 @@
 - Fix edge case — iteration 25 (2018)
 - Extend coverage — iteration 26 (2018)
 - Optimize performance — iteration 30 (2018)
+- Update config — iteration 36 (2018)
