@@ -28,3 +28,4 @@
 - Fix edge case — iteration 60 (2017)
 - Fix typo — iteration 6 (2018)
 - Add validation — iteration 10 (2018)
+- Update dependencies — iteration 12 (2018)
