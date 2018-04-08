@@ -39,3 +39,4 @@
 - Update config — iteration 15 (2018)
 - Polish code — iteration 16 (2018)
 - Extend coverage — iteration 17 (2018)
+- Fix typo — iteration 18 (2018)
