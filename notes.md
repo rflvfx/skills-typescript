@@ -27,3 +27,4 @@
 - Polish code — iteration 56 (2017)
 - Fix edge case — iteration 60 (2017)
 - Fix typo — iteration 6 (2018)
+- Add validation — iteration 10 (2018)
