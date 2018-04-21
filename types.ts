@@ -51,3 +51,4 @@ console.log(wrap(u), u satisfies User);
 - Update docs — iteration 39 (2018)
 - Add feature — iteration 40 (2018)
 - Add tests — iteration 41 (2018)
+- Extend coverage — iteration 44 (2018)
