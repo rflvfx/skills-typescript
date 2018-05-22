@@ -50,3 +50,4 @@ console.log(wrap(u), u satisfies User);
 - Add helper — iteration 37 (2018)
 - Update docs — iteration 39 (2018)
 - Add feature — iteration 40 (2018)
+- Add tests — iteration 41 (2018)
