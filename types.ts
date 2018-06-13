@@ -44,3 +44,4 @@ console.log(wrap(u), u satisfies User);
 - Add validation — iteration 8 (2018)
 - Add helper — iteration 9 (2018)
 - Polish code — iteration 20 (2018)
+- Add validation — iteration 24 (2018)
