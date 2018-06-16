@@ -46,3 +46,4 @@
 - Add feature — iteration 59 (2017)
 - Fix typo — iteration 5 (2018)
 - Extend coverage — iteration 14 (2018)
+- Improve error handling — iteration 21 (2018)
