@@ -42,3 +42,4 @@ console.log(wrap(u), u satisfies User);
 - Tweak implementation — iteration 58 (2017)
 - Update dependencies — iteration 3 (2018)
 - Add validation — iteration 8 (2018)
+- Add helper — iteration 9 (2018)
