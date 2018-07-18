@@ -36,3 +36,4 @@
 - Update dependencies — iteration 4 (2018)
 - Extend coverage — iteration 11 (2018)
 - Improve naming — iteration 13 (2018)
+- Update config — iteration 15 (2018)
