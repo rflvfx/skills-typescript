@@ -49,3 +49,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Fix edge case — iteration 52 (2017)
 - Fix lint warnings — iteration 55 (2017)
 - Add validation — iteration 1 (2018)
+- Fix edge case — iteration 2 (2018)
