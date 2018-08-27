@@ -52,3 +52,4 @@ console.log(wrap(u), u satisfies User);
 - Add feature — iteration 40 (2018)
 - Add tests — iteration 41 (2018)
 - Extend coverage — iteration 44 (2018)
+- Fix lint warnings — iteration 45 (2018)
