@@ -38,3 +38,4 @@
 - Improve naming — iteration 13 (2018)
 - Update config — iteration 15 (2018)
 - Polish code — iteration 16 (2018)
+- Extend coverage — iteration 17 (2018)
