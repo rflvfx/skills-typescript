@@ -52,3 +52,4 @@
 - Optimize performance — iteration 30 (2018)
 - Update config — iteration 36 (2018)
 - Update config — iteration 42 (2018)
+- Extend coverage — iteration 52 (2018)
