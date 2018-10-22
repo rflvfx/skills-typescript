@@ -54,3 +54,4 @@ console.log(wrap(u), u satisfies User);
 - Extend coverage — iteration 44 (2018)
 - Fix lint warnings — iteration 45 (2018)
 - Extend coverage — iteration 50 (2018)
+- Add validation — iteration 51 (2018)
