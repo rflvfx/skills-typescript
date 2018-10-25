@@ -46,3 +46,4 @@ console.log(wrap(u), u satisfies User);
 - Polish code — iteration 20 (2018)
 - Add validation — iteration 24 (2018)
 - Refactor module — iteration 33 (2018)
+- Add helper — iteration 34 (2018)
