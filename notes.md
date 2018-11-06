@@ -30,3 +30,4 @@
 - Add validation — iteration 10 (2018)
 - Update dependencies — iteration 12 (2018)
 - Improve naming — iteration 22 (2018)
+- Optimize performance — iteration 27 (2018)
