@@ -47,3 +47,4 @@
 - Fix typo — iteration 5 (2018)
 - Extend coverage — iteration 14 (2018)
 - Improve error handling — iteration 21 (2018)
+- Fix edge case — iteration 25 (2018)
