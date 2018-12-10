@@ -57,3 +57,4 @@ console.log(wrap(u), u satisfies User);
 - Add validation — iteration 51 (2018)
 - Extend coverage — iteration 53 (2018)
 - Update docs — iteration 54 (2018)
+- Polish code — iteration 56 (2018)
