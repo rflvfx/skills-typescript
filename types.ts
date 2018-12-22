@@ -41,3 +41,4 @@ console.log(wrap(u), u satisfies User);
 - Improve naming — iteration 50 (2017)
 - Tweak implementation — iteration 58 (2017)
 - Update dependencies — iteration 3 (2018)
+- Add validation — iteration 8 (2018)
