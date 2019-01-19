@@ -54,3 +54,4 @@
 - Add example — iteration 22 (2019)
 - Extend coverage — iteration 34 (2019)
 - Optimize performance — iteration 39 (2019)
+- Tweak implementation — iteration 41 (2019)
