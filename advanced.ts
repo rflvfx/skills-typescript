@@ -59,3 +59,4 @@
 - Polish code — iteration 3 (2019)
 - Add helper — iteration 7 (2019)
 - Improve naming — iteration 11 (2019)
+- Add validation — iteration 14 (2019)
