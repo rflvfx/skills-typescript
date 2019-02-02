@@ -68,3 +68,4 @@ console.log(wrap(u), u satisfies User);
 - Polish code — iteration 37 (2019)
 - Refactor module — iteration 38 (2019)
 - Add example — iteration 43 (2019)
+- Add example — iteration 47 (2019)
