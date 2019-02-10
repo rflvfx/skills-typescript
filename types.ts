@@ -69,3 +69,4 @@ console.log(wrap(u), u satisfies User);
 - Refactor module — iteration 38 (2019)
 - Add example — iteration 43 (2019)
 - Add example — iteration 47 (2019)
+- Improve naming — iteration 48 (2019)
