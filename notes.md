@@ -38,3 +38,4 @@
 - Update docs — iteration 16 (2019)
 - Fix edge case — iteration 19 (2019)
 - Optimize performance — iteration 27 (2019)
+- Update dependencies — iteration 30 (2019)
