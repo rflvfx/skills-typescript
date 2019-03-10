@@ -40,3 +40,4 @@
 - Optimize performance — iteration 27 (2019)
 - Update dependencies — iteration 30 (2019)
 - Update docs — iteration 45 (2019)
+- Document usage — iteration 49 (2019)
