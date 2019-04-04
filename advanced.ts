@@ -60,3 +60,4 @@
 - Add helper — iteration 7 (2019)
 - Improve naming — iteration 11 (2019)
 - Add validation — iteration 14 (2019)
+- Fix edge case — iteration 29 (2019)
