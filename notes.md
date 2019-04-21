@@ -39,3 +39,4 @@
 - Fix edge case — iteration 19 (2019)
 - Optimize performance — iteration 27 (2019)
 - Update dependencies — iteration 30 (2019)
+- Update docs — iteration 45 (2019)
