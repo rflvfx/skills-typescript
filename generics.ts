@@ -55,3 +55,4 @@
 - Extend coverage — iteration 34 (2019)
 - Optimize performance — iteration 39 (2019)
 - Tweak implementation — iteration 41 (2019)
+- Fix edge case — iteration 42 (2019)
