@@ -61,3 +61,4 @@ console.log(wrap(u), u satisfies User);
 - Add helper — iteration 5 (2019)
 - Document usage — iteration 9 (2019)
 - Optimize performance — iteration 12 (2019)
+- Document usage — iteration 21 (2019)
