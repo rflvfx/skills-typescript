@@ -35,3 +35,4 @@
 - Extend coverage — iteration 38 (2018)
 - Optimize performance — iteration 49 (2018)
 - Add validation — iteration 6 (2019)
+- Update docs — iteration 16 (2019)
