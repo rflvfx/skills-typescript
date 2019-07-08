@@ -65,3 +65,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Add validation — iteration 23 (2019)
 - Refactor module — iteration 24 (2019)
 - Update config — iteration 25 (2019)
+- Polish code — iteration 26 (2019)
