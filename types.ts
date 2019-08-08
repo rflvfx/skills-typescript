@@ -65,3 +65,4 @@ console.log(wrap(u), u satisfies User);
 - Improve error handling — iteration 28 (2019)
 - Update dependencies — iteration 31 (2019)
 - Add tests — iteration 33 (2019)
+- Polish code — iteration 37 (2019)
