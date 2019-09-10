@@ -58,3 +58,4 @@ console.log(wrap(u), u satisfies User);
 - Extend coverage — iteration 53 (2018)
 - Update docs — iteration 54 (2018)
 - Polish code — iteration 56 (2018)
+- Add helper — iteration 5 (2019)
