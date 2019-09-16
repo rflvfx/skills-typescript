@@ -60,3 +60,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Add example — iteration 59 (2018)
 - Update config — iteration 60 (2018)
 - Optimize performance — iteration 4 (2019)
+- Add feature — iteration 17 (2019)
