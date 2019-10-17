@@ -63,3 +63,4 @@ console.log(wrap(u), u satisfies User);
 - Optimize performance — iteration 12 (2019)
 - Document usage — iteration 21 (2019)
 - Improve error handling — iteration 28 (2019)
+- Update dependencies — iteration 31 (2019)
