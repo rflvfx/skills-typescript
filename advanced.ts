@@ -65,3 +65,4 @@
 - Update docs — iteration 36 (2019)
 - Add feature — iteration 52 (2019)
 - Tweak implementation — iteration 53 (2019)
+- Improve naming — iteration 55 (2019)
