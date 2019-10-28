@@ -55,3 +55,4 @@
 - Extend coverage — iteration 52 (2018)
 - Update dependencies — iteration 58 (2018)
 - Fix lint warnings — iteration 1 (2019)
+- Update dependencies — iteration 2 (2019)
