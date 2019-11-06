@@ -41,3 +41,4 @@
 - Update dependencies — iteration 30 (2019)
 - Update docs — iteration 45 (2019)
 - Document usage — iteration 49 (2019)
+- Minor cleanup — iteration 56 (2019)
