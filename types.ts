@@ -71,3 +71,4 @@ console.log(wrap(u), u satisfies User);
 - Add example — iteration 47 (2019)
 - Improve naming — iteration 48 (2019)
 - Improve error handling — iteration 50 (2019)
+- Polish code — iteration 51 (2019)
