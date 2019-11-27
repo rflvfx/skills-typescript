@@ -57,3 +57,4 @@
 - Fix lint warnings — iteration 1 (2019)
 - Update dependencies — iteration 2 (2019)
 - Polish code — iteration 3 (2019)
+- Add helper — iteration 7 (2019)
