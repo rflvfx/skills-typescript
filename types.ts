@@ -59,3 +59,4 @@ console.log(wrap(u), u satisfies User);
 - Update docs — iteration 54 (2018)
 - Polish code — iteration 56 (2018)
 - Add helper — iteration 5 (2019)
+- Document usage — iteration 9 (2019)
