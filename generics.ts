@@ -53,3 +53,4 @@
 - Refactor module — iteration 18 (2019)
 - Add example — iteration 22 (2019)
 - Extend coverage — iteration 34 (2019)
+- Optimize performance — iteration 39 (2019)
