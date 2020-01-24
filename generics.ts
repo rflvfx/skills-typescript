@@ -64,3 +64,4 @@
 - Fix edge case — iteration 15 (2020)
 - Fix lint warnings — iteration 20 (2020)
 - Document usage — iteration 26 (2020)
+- Refactor module — iteration 29 (2020)
