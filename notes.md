@@ -54,3 +54,4 @@
 - Add helper — iteration 44 (2020)
 - Update docs — iteration 46 (2020)
 - Extend coverage — iteration 53 (2020)
+- Polish code — iteration 57 (2020)
