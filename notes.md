@@ -53,3 +53,4 @@
 - Tweak implementation — iteration 32 (2020)
 - Add helper — iteration 44 (2020)
 - Update docs — iteration 46 (2020)
+- Extend coverage — iteration 53 (2020)
