@@ -80,3 +80,4 @@ console.log(wrap(u), u satisfies User);
 - Add validation — iteration 28 (2020)
 - Document usage — iteration 35 (2020)
 - Fix lint warnings — iteration 36 (2020)
+- Update docs — iteration 41 (2020)
