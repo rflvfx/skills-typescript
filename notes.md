@@ -52,3 +52,4 @@
 - Add validation — iteration 31 (2020)
 - Tweak implementation — iteration 32 (2020)
 - Add helper — iteration 44 (2020)
+- Update docs — iteration 46 (2020)
