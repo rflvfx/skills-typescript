@@ -45,3 +45,4 @@
 - Update config — iteration 5 (2020)
 - Fix edge case — iteration 9 (2020)
 - Update config — iteration 11 (2020)
+- Update dependencies — iteration 12 (2020)
