@@ -43,3 +43,4 @@
 - Document usage — iteration 49 (2019)
 - Minor cleanup — iteration 56 (2019)
 - Update config — iteration 5 (2020)
+- Fix edge case — iteration 9 (2020)
