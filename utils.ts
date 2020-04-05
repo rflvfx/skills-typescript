@@ -73,3 +73,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Tweak implementation — iteration 57 (2019)
 - Optimize performance — iteration 2 (2020)
 - Tweak implementation — iteration 4 (2020)
+- Add validation — iteration 10 (2020)
