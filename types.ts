@@ -73,3 +73,4 @@ console.log(wrap(u), u satisfies User);
 - Improve error handling — iteration 50 (2019)
 - Polish code — iteration 51 (2019)
 - Refactor module — iteration 59 (2019)
+- Fix lint warnings — iteration 6 (2020)
