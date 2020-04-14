@@ -46,3 +46,4 @@
 - Fix edge case — iteration 9 (2020)
 - Update config — iteration 11 (2020)
 - Update dependencies — iteration 12 (2020)
+- Improve error handling — iteration 13 (2020)
