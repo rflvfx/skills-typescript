@@ -63,3 +63,4 @@
 - Extend coverage — iteration 3 (2020)
 - Fix edge case — iteration 15 (2020)
 - Fix lint warnings — iteration 20 (2020)
+- Document usage — iteration 26 (2020)
