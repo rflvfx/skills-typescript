@@ -78,3 +78,4 @@ console.log(wrap(u), u satisfies User);
 - Add tests — iteration 14 (2020)
 - Fix typo — iteration 16 (2020)
 - Add validation — iteration 28 (2020)
+- Document usage — iteration 35 (2020)
