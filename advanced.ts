@@ -66,3 +66,4 @@
 - Add feature — iteration 52 (2019)
 - Tweak implementation — iteration 53 (2019)
 - Improve naming — iteration 55 (2019)
+- Polish code — iteration 8 (2020)
