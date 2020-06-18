@@ -69,3 +69,4 @@
 - Polish code — iteration 8 (2020)
 - Improve naming — iteration 17 (2020)
 - Update dependencies — iteration 21 (2020)
+- Add feature — iteration 22 (2020)
