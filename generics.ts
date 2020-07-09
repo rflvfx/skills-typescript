@@ -65,3 +65,4 @@
 - Fix lint warnings — iteration 20 (2020)
 - Document usage — iteration 26 (2020)
 - Refactor module — iteration 29 (2020)
+- Improve naming — iteration 30 (2020)
