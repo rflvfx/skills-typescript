@@ -76,3 +76,4 @@ console.log(wrap(u), u satisfies User);
 - Fix lint warnings — iteration 6 (2020)
 - Extend coverage — iteration 7 (2020)
 - Add tests — iteration 14 (2020)
+- Fix typo — iteration 16 (2020)
