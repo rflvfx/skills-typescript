@@ -62,3 +62,4 @@
 - Fix edge case — iteration 1 (2020)
 - Extend coverage — iteration 3 (2020)
 - Fix edge case — iteration 15 (2020)
+- Fix lint warnings — iteration 20 (2020)
