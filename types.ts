@@ -81,3 +81,4 @@ console.log(wrap(u), u satisfies User);
 - Document usage — iteration 35 (2020)
 - Fix lint warnings — iteration 36 (2020)
 - Update docs — iteration 41 (2020)
+- Add tests — iteration 52 (2020)
