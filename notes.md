@@ -48,3 +48,4 @@
 - Update dependencies — iteration 12 (2020)
 - Improve error handling — iteration 13 (2020)
 - Fix edge case — iteration 18 (2020)
+- Optimize performance — iteration 25 (2020)
