@@ -74,3 +74,4 @@
 - Tweak implementation — iteration 24 (2020)
 - Refactor module — iteration 37 (2020)
 - Fix edge case — iteration 38 (2020)
+- Fix edge case — iteration 43 (2020)
