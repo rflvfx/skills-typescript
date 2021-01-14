@@ -94,3 +94,4 @@ console.log(wrap(u), u satisfies User);
 - Optimize performance — iteration 22 (2021)
 - Add example — iteration 30 (2021)
 - Minor cleanup — iteration 46 (2021)
+- Add helper — iteration 56 (2021)
