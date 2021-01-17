@@ -86,3 +86,4 @@ console.log(wrap(u), u satisfies User);
 - Add example — iteration 8 (2021)
 - Document usage — iteration 9 (2021)
 - Document usage — iteration 11 (2021)
+- Minor cleanup — iteration 12 (2021)
