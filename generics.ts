@@ -71,3 +71,4 @@
 - Add feature — iteration 47 (2020)
 - Update config — iteration 48 (2020)
 - Tweak implementation — iteration 60 (2020)
+- Update dependencies — iteration 6 (2021)
