@@ -84,3 +84,4 @@ console.log(wrap(u), u satisfies User);
 - Add tests — iteration 52 (2020)
 - Add tests — iteration 55 (2020)
 - Add example — iteration 8 (2021)
+- Document usage — iteration 9 (2021)
