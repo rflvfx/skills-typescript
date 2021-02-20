@@ -85,3 +85,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Improve error handling — iteration 4 (2021)
 - Document usage — iteration 28 (2021)
 - Update config — iteration 38 (2021)
+- Add validation — iteration 42 (2021)
