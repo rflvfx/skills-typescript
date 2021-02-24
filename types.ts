@@ -92,3 +92,4 @@ console.log(wrap(u), u satisfies User);
 - Add helper — iteration 17 (2021)
 - Polish code — iteration 21 (2021)
 - Optimize performance — iteration 22 (2021)
+- Add example — iteration 30 (2021)
