@@ -94,3 +94,4 @@
 - Document usage — iteration 39 (2021)
 - Extend coverage — iteration 52 (2021)
 - Fix lint warnings — iteration 55 (2021)
+- Improve error handling — iteration 59 (2021)
