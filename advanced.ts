@@ -93,3 +93,4 @@
 - Add example — iteration 36 (2021)
 - Document usage — iteration 39 (2021)
 - Extend coverage — iteration 52 (2021)
+- Fix lint warnings — iteration 55 (2021)
