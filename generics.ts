@@ -72,3 +72,4 @@
 - Update config — iteration 48 (2020)
 - Tweak implementation — iteration 60 (2020)
 - Update dependencies — iteration 6 (2021)
+- Fix typo — iteration 16 (2021)
