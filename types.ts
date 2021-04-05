@@ -83,3 +83,4 @@ console.log(wrap(u), u satisfies User);
 - Update docs — iteration 41 (2020)
 - Add tests — iteration 52 (2020)
 - Add tests — iteration 55 (2020)
+- Add example — iteration 8 (2021)
