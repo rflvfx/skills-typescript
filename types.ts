@@ -91,3 +91,4 @@ console.log(wrap(u), u satisfies User);
 - Update config — iteration 14 (2021)
 - Add helper — iteration 17 (2021)
 - Polish code — iteration 21 (2021)
+- Optimize performance — iteration 22 (2021)
