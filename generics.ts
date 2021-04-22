@@ -82,3 +82,4 @@
 - Document usage — iteration 45 (2021)
 - Improve naming — iteration 47 (2021)
 - Add example — iteration 48 (2021)
+- Add feature — iteration 49 (2021)
