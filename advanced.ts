@@ -82,3 +82,4 @@
 - Update config — iteration 56 (2020)
 - Add tests — iteration 59 (2020)
 - Update dependencies — iteration 7 (2021)
+- Add example — iteration 10 (2021)
