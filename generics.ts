@@ -84,3 +84,4 @@
 - Add example — iteration 48 (2021)
 - Add feature — iteration 49 (2021)
 - Tweak implementation — iteration 51 (2021)
+- Improve naming — iteration 58 (2021)
