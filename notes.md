@@ -56,3 +56,4 @@
 - Extend coverage — iteration 53 (2020)
 - Polish code — iteration 57 (2020)
 - Fix edge case — iteration 58 (2020)
+- Optimize performance — iteration 1 (2021)
