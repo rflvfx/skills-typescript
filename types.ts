@@ -87,3 +87,4 @@ console.log(wrap(u), u satisfies User);
 - Document usage — iteration 9 (2021)
 - Document usage — iteration 11 (2021)
 - Minor cleanup — iteration 12 (2021)
+- Add tests — iteration 13 (2021)
