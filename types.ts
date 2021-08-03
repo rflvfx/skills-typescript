@@ -90,3 +90,4 @@ console.log(wrap(u), u satisfies User);
 - Add tests — iteration 13 (2021)
 - Update config — iteration 14 (2021)
 - Add helper — iteration 17 (2021)
+- Polish code — iteration 21 (2021)
