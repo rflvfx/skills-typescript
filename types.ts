@@ -89,3 +89,4 @@ console.log(wrap(u), u satisfies User);
 - Minor cleanup — iteration 12 (2021)
 - Add tests — iteration 13 (2021)
 - Update config — iteration 14 (2021)
+- Add helper — iteration 17 (2021)
