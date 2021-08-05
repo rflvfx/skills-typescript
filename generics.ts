@@ -79,3 +79,4 @@
 - Add example — iteration 40 (2021)
 - Add feature — iteration 41 (2021)
 - Document usage — iteration 44 (2021)
+- Document usage — iteration 45 (2021)
