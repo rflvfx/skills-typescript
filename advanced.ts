@@ -84,3 +84,4 @@
 - Update dependencies — iteration 7 (2021)
 - Add example — iteration 10 (2021)
 - Add example — iteration 15 (2021)
+- Fix edge case — iteration 19 (2021)
