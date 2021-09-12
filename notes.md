@@ -63,3 +63,4 @@
 - Improve naming — iteration 27 (2021)
 - Improve naming — iteration 34 (2021)
 - Update docs — iteration 35 (2021)
+- Update dependencies — iteration 37 (2021)
