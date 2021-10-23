@@ -75,3 +75,4 @@
 - Fix typo — iteration 16 (2021)
 - Fix typo — iteration 23 (2021)
 - Add validation — iteration 25 (2021)
+- Refactor module — iteration 31 (2021)
