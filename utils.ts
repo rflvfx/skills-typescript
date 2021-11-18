@@ -80,3 +80,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Optimize performance — iteration 34 (2020)
 - Improve error handling — iteration 39 (2020)
 - Fix lint warnings — iteration 49 (2020)
+- Add helper — iteration 2 (2021)
