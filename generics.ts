@@ -78,3 +78,4 @@
 - Refactor module — iteration 31 (2021)
 - Add example — iteration 40 (2021)
 - Add feature — iteration 41 (2021)
+- Document usage — iteration 44 (2021)
