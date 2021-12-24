@@ -95,3 +95,4 @@ console.log(wrap(u), u satisfies User);
 - Add example — iteration 30 (2021)
 - Minor cleanup — iteration 46 (2021)
 - Add helper — iteration 56 (2021)
+- Improve naming — iteration 60 (2021)
