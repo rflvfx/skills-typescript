@@ -97,3 +97,4 @@ console.log(wrap(u), u satisfies User);
 - Add helper — iteration 56 (2021)
 - Improve naming — iteration 60 (2021)
 - Update docs — iteration 1 (2022)
+- Update dependencies — iteration 10 (2022)
