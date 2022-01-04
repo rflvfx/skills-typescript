@@ -86,3 +86,4 @@
 - Tweak implementation — iteration 51 (2021)
 - Improve naming — iteration 58 (2021)
 - Refactor module — iteration 2 (2022)
+- Update docs — iteration 8 (2022)
