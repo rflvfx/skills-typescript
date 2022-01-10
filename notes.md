@@ -70,3 +70,4 @@
 - Improve naming — iteration 7 (2022)
 - Update config — iteration 9 (2022)
 - Fix edge case — iteration 11 (2022)
+- Update dependencies — iteration 14 (2022)
