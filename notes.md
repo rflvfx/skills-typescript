@@ -74,3 +74,4 @@
 - Fix typo — iteration 16 (2022)
 - Document usage — iteration 20 (2022)
 - Improve error handling — iteration 24 (2022)
+- Add helper — iteration 25 (2022)
