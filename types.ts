@@ -103,3 +103,4 @@ console.log(wrap(u), u satisfies User);
 - Fix edge case — iteration 15 (2022)
 - Fix lint warnings — iteration 22 (2022)
 - Add helper — iteration 34 (2022)
+- Update docs — iteration 44 (2022)
