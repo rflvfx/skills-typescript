@@ -76,3 +76,4 @@
 - Improve error handling — iteration 24 (2022)
 - Add helper — iteration 25 (2022)
 - Fix typo — iteration 31 (2022)
+- Polish code — iteration 35 (2022)
