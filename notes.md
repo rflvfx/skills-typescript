@@ -68,3 +68,4 @@
 - Minor cleanup — iteration 50 (2021)
 - Tweak implementation — iteration 6 (2022)
 - Improve naming — iteration 7 (2022)
+- Update config — iteration 9 (2022)
