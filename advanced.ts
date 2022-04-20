@@ -100,3 +100,4 @@
 - Update config — iteration 26 (2022)
 - Update config — iteration 32 (2022)
 - Add helper — iteration 40 (2022)
+- Document usage — iteration 43 (2022)
