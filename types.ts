@@ -101,3 +101,4 @@ console.log(wrap(u), u satisfies User);
 - Extend coverage — iteration 12 (2022)
 - Refactor module — iteration 13 (2022)
 - Fix edge case — iteration 15 (2022)
+- Fix lint warnings — iteration 22 (2022)
