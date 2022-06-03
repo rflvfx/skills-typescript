@@ -102,3 +102,4 @@ console.log(wrap(u), u satisfies User);
 - Refactor module — iteration 13 (2022)
 - Fix edge case — iteration 15 (2022)
 - Fix lint warnings — iteration 22 (2022)
+- Add helper — iteration 34 (2022)
