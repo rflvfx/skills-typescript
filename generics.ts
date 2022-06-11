@@ -92,3 +92,4 @@
 - Add example — iteration 33 (2022)
 - Update config — iteration 41 (2022)
 - Add tests — iteration 45 (2022)
+- Document usage — iteration 51 (2022)
