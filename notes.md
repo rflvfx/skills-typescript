@@ -67,3 +67,4 @@
 - Update dependencies — iteration 43 (2021)
 - Minor cleanup — iteration 50 (2021)
 - Tweak implementation — iteration 6 (2022)
+- Improve naming — iteration 7 (2022)
