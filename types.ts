@@ -100,3 +100,4 @@ console.log(wrap(u), u satisfies User);
 - Update dependencies — iteration 10 (2022)
 - Extend coverage — iteration 12 (2022)
 - Refactor module — iteration 13 (2022)
+- Fix edge case — iteration 15 (2022)
