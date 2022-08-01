@@ -98,3 +98,4 @@ console.log(wrap(u), u satisfies User);
 - Improve naming — iteration 60 (2021)
 - Update docs — iteration 1 (2022)
 - Update dependencies — iteration 10 (2022)
+- Extend coverage — iteration 12 (2022)
