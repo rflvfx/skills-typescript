@@ -104,3 +104,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Minor cleanup — iteration 46 (2022)
 - Improve error handling — iteration 48 (2022)
 - Fix edge case — iteration 49 (2022)
+- Improve error handling — iteration 50 (2022)
