@@ -90,3 +90,4 @@
 - Update dependencies — iteration 21 (2022)
 - Fix lint warnings — iteration 30 (2022)
 - Add example — iteration 33 (2022)
+- Update config — iteration 41 (2022)
