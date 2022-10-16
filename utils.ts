@@ -97,3 +97,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Optimize performance — iteration 27 (2022)
 - Update config — iteration 28 (2022)
 - Add validation — iteration 29 (2022)
+- Add tests — iteration 36 (2022)
