@@ -78,3 +78,4 @@
 - Fix typo — iteration 31 (2022)
 - Polish code — iteration 35 (2022)
 - Tweak implementation — iteration 42 (2022)
+- Extend coverage — iteration 54 (2022)
