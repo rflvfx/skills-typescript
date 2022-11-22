@@ -94,3 +94,4 @@
 - Add tests — iteration 45 (2022)
 - Document usage — iteration 51 (2022)
 - Update dependencies — iteration 52 (2022)
+- Optimize performance — iteration 56 (2022)
