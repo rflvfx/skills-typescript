@@ -91,3 +91,4 @@
 - Fix lint warnings — iteration 30 (2022)
 - Add example — iteration 33 (2022)
 - Update config — iteration 41 (2022)
+- Add tests — iteration 45 (2022)
