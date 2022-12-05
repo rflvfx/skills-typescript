@@ -73,3 +73,4 @@
 - Update dependencies — iteration 14 (2022)
 - Fix typo — iteration 16 (2022)
 - Document usage — iteration 20 (2022)
+- Improve error handling — iteration 24 (2022)
