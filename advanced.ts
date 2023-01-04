@@ -107,3 +107,4 @@
 - Add validation — iteration 16 (2023)
 - Refactor module — iteration 18 (2023)
 - Extend coverage — iteration 20 (2023)
+- Document usage — iteration 30 (2023)
