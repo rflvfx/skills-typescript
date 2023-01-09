@@ -113,3 +113,4 @@ console.log(wrap(u), u satisfies User);
 - Document usage — iteration 21 (2023)
 - Improve error handling — iteration 22 (2023)
 - Fix edge case — iteration 27 (2023)
+- Improve error handling — iteration 41 (2023)
