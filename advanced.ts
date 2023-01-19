@@ -106,3 +106,4 @@
 - Update dependencies — iteration 14 (2023)
 - Add validation — iteration 16 (2023)
 - Refactor module — iteration 18 (2023)
+- Extend coverage — iteration 20 (2023)
