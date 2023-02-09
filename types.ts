@@ -110,3 +110,4 @@ console.log(wrap(u), u satisfies User);
 - Update config — iteration 4 (2023)
 - Minor cleanup — iteration 9 (2023)
 - Refactor module — iteration 19 (2023)
+- Document usage — iteration 21 (2023)
