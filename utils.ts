@@ -111,3 +111,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Polish code — iteration 11 (2023)
 - Add feature — iteration 13 (2023)
 - Document usage — iteration 17 (2023)
+- Add tests — iteration 29 (2023)
