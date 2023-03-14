@@ -83,3 +83,4 @@
 - Tweak implementation — iteration 6 (2023)
 - Improve error handling — iteration 7 (2023)
 - Add example — iteration 12 (2023)
+- Improve error handling — iteration 23 (2023)
