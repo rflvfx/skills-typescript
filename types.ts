@@ -112,3 +112,4 @@ console.log(wrap(u), u satisfies User);
 - Refactor module — iteration 19 (2023)
 - Document usage — iteration 21 (2023)
 - Improve error handling — iteration 22 (2023)
+- Fix edge case — iteration 27 (2023)
