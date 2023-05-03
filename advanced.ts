@@ -102,3 +102,4 @@
 - Add helper — iteration 40 (2022)
 - Document usage — iteration 43 (2022)
 - Extend coverage — iteration 47 (2022)
+- Optimize performance — iteration 8 (2023)
