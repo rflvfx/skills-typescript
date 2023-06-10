@@ -111,3 +111,4 @@ console.log(wrap(u), u satisfies User);
 - Minor cleanup — iteration 9 (2023)
 - Refactor module — iteration 19 (2023)
 - Document usage — iteration 21 (2023)
+- Improve error handling — iteration 22 (2023)
