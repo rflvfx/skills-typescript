@@ -97,3 +97,4 @@
 - Optimize performance — iteration 56 (2022)
 - Update dependencies — iteration 57 (2022)
 - Document usage — iteration 2 (2023)
+- Fix edge case — iteration 3 (2023)
