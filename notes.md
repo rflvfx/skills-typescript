@@ -89,3 +89,4 @@
 - Document usage — iteration 34 (2023)
 - Add feature — iteration 44 (2023)
 - Add tests — iteration 57 (2023)
+- Polish code — iteration 60 (2023)
