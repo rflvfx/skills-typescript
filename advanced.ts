@@ -103,3 +103,4 @@
 - Document usage — iteration 43 (2022)
 - Extend coverage — iteration 47 (2022)
 - Optimize performance — iteration 8 (2023)
+- Update dependencies — iteration 14 (2023)
