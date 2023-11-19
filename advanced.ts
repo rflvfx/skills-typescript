@@ -108,3 +108,4 @@
 - Refactor module — iteration 18 (2023)
 - Extend coverage — iteration 20 (2023)
 - Document usage — iteration 30 (2023)
+- Minor cleanup — iteration 31 (2023)
