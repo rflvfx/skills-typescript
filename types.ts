@@ -117,3 +117,4 @@ console.log(wrap(u), u satisfies User);
 - Add tests — iteration 55 (2023)
 - Improve error handling — iteration 6 (2024)
 - Optimize performance — iteration 15 (2024)
+- Add helper — iteration 24 (2024)
