@@ -128,3 +128,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Add feature — iteration 20 (2024)
 - Refactor module — iteration 25 (2024)
 - Document usage — iteration 30 (2024)
+- Extend coverage — iteration 34 (2024)
