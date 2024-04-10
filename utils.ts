@@ -123,3 +123,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Fix edge case — iteration 59 (2023)
 - Improve naming — iteration 4 (2024)
 - Minor cleanup — iteration 5 (2024)
+- Tweak implementation — iteration 16 (2024)
