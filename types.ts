@@ -119,3 +119,4 @@ console.log(wrap(u), u satisfies User);
 - Optimize performance — iteration 15 (2024)
 - Add helper — iteration 24 (2024)
 - Add feature — iteration 27 (2024)
+- Document usage — iteration 28 (2024)
