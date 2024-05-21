@@ -94,3 +94,4 @@
 - Tweak implementation — iteration 7 (2024)
 - Add tests — iteration 10 (2024)
 - Extend coverage — iteration 14 (2024)
+- Improve error handling — iteration 19 (2024)
