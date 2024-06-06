@@ -121,3 +121,4 @@ console.log(wrap(u), u satisfies User);
 - Add feature — iteration 27 (2024)
 - Document usage — iteration 28 (2024)
 - Tweak implementation — iteration 32 (2024)
+- Document usage — iteration 33 (2024)
