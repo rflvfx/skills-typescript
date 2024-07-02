@@ -135,3 +135,4 @@ export function groupBy<T>(arr: T[], key: keyof T): Record<string, T[]> {
 - Add validation — iteration 43 (2024)
 - Add tests — iteration 47 (2024)
 - Improve naming — iteration 50 (2024)
+- Tweak implementation — iteration 51 (2024)
