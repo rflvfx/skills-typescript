@@ -123,3 +123,4 @@ console.log(wrap(u), u satisfies User);
 - Tweak implementation — iteration 32 (2024)
 - Document usage — iteration 33 (2024)
 - Update docs — iteration 36 (2024)
+- Refactor module — iteration 57 (2024)
