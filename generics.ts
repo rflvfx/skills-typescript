@@ -116,3 +116,4 @@
 - Add feature — iteration 2 (2024)
 - Extend coverage — iteration 8 (2024)
 - Fix lint warnings — iteration 13 (2024)
+- Add validation — iteration 18 (2024)
