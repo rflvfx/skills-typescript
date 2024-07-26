@@ -116,3 +116,4 @@
 - Fix typo — iteration 9 (2024)
 - Add example — iteration 11 (2024)
 - Update config — iteration 12 (2024)
+- Document usage — iteration 26 (2024)
