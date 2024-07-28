@@ -93,3 +93,4 @@
 - Refactor module — iteration 1 (2024)
 - Tweak implementation — iteration 7 (2024)
 - Add tests — iteration 10 (2024)
+- Extend coverage — iteration 14 (2024)
