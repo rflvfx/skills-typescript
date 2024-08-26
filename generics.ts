@@ -114,3 +114,4 @@
 - Fix edge case — iteration 54 (2023)
 - Tweak implementation — iteration 56 (2023)
 - Add feature — iteration 2 (2024)
+- Extend coverage — iteration 8 (2024)
