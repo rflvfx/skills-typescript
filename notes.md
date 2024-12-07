@@ -95,3 +95,4 @@
 - Add tests — iteration 10 (2024)
 - Extend coverage — iteration 14 (2024)
 - Improve error handling — iteration 19 (2024)
+- Update docs — iteration 21 (2024)
