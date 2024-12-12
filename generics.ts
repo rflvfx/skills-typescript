@@ -120,3 +120,4 @@
 - Improve error handling — iteration 22 (2024)
 - Improve error handling — iteration 23 (2024)
 - Extend coverage — iteration 29 (2024)
+- Fix edge case — iteration 44 (2024)
