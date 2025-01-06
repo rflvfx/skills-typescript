@@ -100,3 +100,4 @@
 - Update dependencies — iteration 2 (2025)
 - Update docs — iteration 3 (2025)
 - Improve error handling — iteration 4 (2025)
+- Improve naming — iteration 8 (2025)
