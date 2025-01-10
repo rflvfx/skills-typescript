@@ -97,3 +97,4 @@
 - Improve error handling — iteration 19 (2024)
 - Update docs — iteration 21 (2024)
 - Extend coverage — iteration 59 (2024)
+- Update dependencies — iteration 2 (2025)
