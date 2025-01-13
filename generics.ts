@@ -128,3 +128,4 @@
 - Improve error handling — iteration 1 (2025)
 - Polish code — iteration 5 (2025)
 - Improve error handling — iteration 10 (2025)
+- Document usage — iteration 12 (2025)
