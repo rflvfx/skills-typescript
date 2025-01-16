@@ -127,3 +127,4 @@
 - Extend coverage — iteration 55 (2024)
 - Improve error handling — iteration 1 (2025)
 - Polish code — iteration 5 (2025)
+- Improve error handling — iteration 10 (2025)
