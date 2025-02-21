@@ -138,3 +138,4 @@
 - Document usage — iteration 37 (2025)
 - Optimize performance — iteration 38 (2025)
 - Fix typo — iteration 39 (2025)
+- Extend coverage — iteration 40 (2025)
