@@ -131,3 +131,4 @@ console.log(wrap(u), u satisfies User);
 - Add validation — iteration 34 (2025)
 - Add helper — iteration 36 (2025)
 - Add feature — iteration 42 (2025)
+- Document usage — iteration 45 (2025)
