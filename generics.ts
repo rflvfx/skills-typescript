@@ -126,3 +126,4 @@
 - Update config — iteration 52 (2024)
 - Extend coverage — iteration 55 (2024)
 - Improve error handling — iteration 1 (2025)
+- Polish code — iteration 5 (2025)
