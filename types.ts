@@ -125,3 +125,4 @@ console.log(wrap(u), u satisfies User);
 - Update docs — iteration 36 (2024)
 - Refactor module — iteration 57 (2024)
 - Add feature — iteration 58 (2024)
+- Extend coverage — iteration 7 (2025)
