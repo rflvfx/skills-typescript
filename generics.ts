@@ -131,3 +131,4 @@
 - Document usage — iteration 12 (2025)
 - Improve error handling — iteration 17 (2025)
 - Tweak implementation — iteration 22 (2025)
+- Fix typo — iteration 24 (2025)
