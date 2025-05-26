@@ -129,3 +129,4 @@ console.log(wrap(u), u satisfies User);
 - Add helper — iteration 9 (2025)
 - Update config — iteration 18 (2025)
 - Add validation — iteration 34 (2025)
+- Add helper — iteration 36 (2025)
