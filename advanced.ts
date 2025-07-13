@@ -134,3 +134,4 @@
 - Add tests — iteration 25 (2025)
 - Fix edge case — iteration 26 (2025)
 - Polish code — iteration 27 (2025)
+- Document usage — iteration 35 (2025)
