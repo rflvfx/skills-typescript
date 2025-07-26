@@ -132,3 +132,4 @@ console.log(wrap(u), u satisfies User);
 - Add helper — iteration 36 (2025)
 - Add feature — iteration 42 (2025)
 - Document usage — iteration 45 (2025)
+- Tweak implementation — iteration 47 (2025)
