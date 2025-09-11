@@ -127,3 +127,4 @@ console.log(wrap(u), u satisfies User);
 - Add feature — iteration 58 (2024)
 - Extend coverage — iteration 7 (2025)
 - Add helper — iteration 9 (2025)
+- Update config — iteration 18 (2025)
