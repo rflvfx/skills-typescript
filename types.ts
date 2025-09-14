@@ -128,3 +128,4 @@ console.log(wrap(u), u satisfies User);
 - Extend coverage — iteration 7 (2025)
 - Add helper — iteration 9 (2025)
 - Update config — iteration 18 (2025)
+- Add validation — iteration 34 (2025)
