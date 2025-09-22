@@ -136,3 +136,4 @@ console.log(wrap(u), u satisfies User);
 - Improve naming — iteration 50 (2025)
 - Update config — iteration 51 (2025)
 - Polish code — iteration 56 (2025)
+- Add helper — iteration 58 (2025)
