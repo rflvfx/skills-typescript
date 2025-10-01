@@ -126,3 +126,4 @@ console.log(wrap(u), u satisfies User);
 - Refactor module — iteration 57 (2024)
 - Add feature — iteration 58 (2024)
 - Extend coverage — iteration 7 (2025)
+- Add helper — iteration 9 (2025)
