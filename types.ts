@@ -133,3 +133,4 @@ console.log(wrap(u), u satisfies User);
 - Add feature — iteration 42 (2025)
 - Document usage — iteration 45 (2025)
 - Tweak implementation — iteration 47 (2025)
+- Improve naming — iteration 50 (2025)
