@@ -125,3 +125,4 @@
 - Add validation — iteration 48 (2024)
 - Update config — iteration 52 (2024)
 - Extend coverage — iteration 55 (2024)
+- Improve error handling — iteration 1 (2025)
