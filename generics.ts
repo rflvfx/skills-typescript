@@ -135,3 +135,4 @@
 - Fix edge case — iteration 29 (2025)
 - Fix typo — iteration 31 (2025)
 - Update config — iteration 33 (2025)
+- Document usage — iteration 37 (2025)
