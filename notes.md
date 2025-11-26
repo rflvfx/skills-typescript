@@ -99,3 +99,4 @@
 - Extend coverage — iteration 59 (2024)
 - Update dependencies — iteration 2 (2025)
 - Update docs — iteration 3 (2025)
+- Improve error handling — iteration 4 (2025)
