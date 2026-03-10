@@ -138,3 +138,4 @@ console.log(wrap(u), u satisfies User);
 - Polish code — iteration 56 (2025)
 - Add helper — iteration 58 (2025)
 - Add example — iteration 3 (2026)
+- Fix edge case — iteration 7 (2026)
