@@ -155,3 +155,4 @@
 - Optimize performance — iteration 47 (2026)
 - Document usage — iteration 50 (2026)
 - Add feature — iteration 53 (2026)
+- Add example — iteration 59 (2026)
