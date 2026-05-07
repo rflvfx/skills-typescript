@@ -118,3 +118,4 @@
 - Tweak implementation — iteration 31 (2026)
 - Document usage — iteration 33 (2026)
 - Optimize performance — iteration 35 (2026)
+- Document usage — iteration 40 (2026)
