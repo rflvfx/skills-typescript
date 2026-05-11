@@ -146,3 +146,4 @@
 - Add tests — iteration 5 (2026)
 - Add tests — iteration 8 (2026)
 - Fix typo — iteration 11 (2026)
+- Extend coverage — iteration 14 (2026)
