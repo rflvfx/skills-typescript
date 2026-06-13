@@ -139,3 +139,4 @@ console.log(wrap(u), u satisfies User);
 - Add helper — iteration 58 (2025)
 - Add example — iteration 3 (2026)
 - Fix edge case — iteration 7 (2026)
+- Update dependencies — iteration 18 (2026)
