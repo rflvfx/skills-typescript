@@ -142,3 +142,4 @@ console.log(wrap(u), u satisfies User);
 - Update dependencies — iteration 18 (2026)
 - Tweak implementation — iteration 29 (2026)
 - Tweak implementation — iteration 38 (2026)
+- Improve naming — iteration 39 (2026)
