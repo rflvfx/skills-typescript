@@ -116,3 +116,4 @@
 - Add tests — iteration 27 (2026)
 - Add tests — iteration 28 (2026)
 - Tweak implementation — iteration 31 (2026)
+- Document usage — iteration 33 (2026)
