@@ -153,3 +153,4 @@
 - Fix edge case — iteration 42 (2026)
 - Document usage — iteration 44 (2026)
 - Optimize performance — iteration 47 (2026)
+- Document usage — iteration 50 (2026)
