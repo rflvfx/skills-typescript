@@ -149,3 +149,4 @@
 - Extend coverage — iteration 14 (2026)
 - Add example — iteration 25 (2026)
 - Refactor module — iteration 32 (2026)
+- Add validation — iteration 37 (2026)
