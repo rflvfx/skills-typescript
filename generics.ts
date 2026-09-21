@@ -151,3 +151,4 @@
 - Refactor module — iteration 32 (2026)
 - Add validation — iteration 37 (2026)
 - Fix edge case — iteration 42 (2026)
+- Document usage — iteration 44 (2026)
