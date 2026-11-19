@@ -110,3 +110,4 @@
 - Extend coverage — iteration 52 (2025)
 - Minor cleanup — iteration 53 (2025)
 - Update config — iteration 55 (2025)
+- Add helper — iteration 12 (2026)
